@@ -1,6 +1,6 @@
 CS440/ECE448 MP1
 
-![](clinton-word-cloud.png)
+![Original page](https://courses.grainger.illinois.edu/cs440/fa2023/MPs/mp1/assignment1.html)
 
 CS440/ECE448 Fall 2022  
 MP1: Naive Bayes
